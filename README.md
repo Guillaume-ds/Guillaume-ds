@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guillaume-ds
 
-- 👀 I’m looking for an internship in data analysis starting in July 2021
+- 👀 I’m doing an internship in data analysis 
 
 - 🌱 I’m currently learning Python and SQL
 
